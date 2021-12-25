@@ -11,6 +11,6 @@ To get set up,
     - (see here: https://pypi.org/project/mergedeep/)
 
 Then, run the program like this:
-    > python scene_orc.py
+    > python lungar.py
 
 Good luck!
